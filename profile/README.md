@@ -1,4 +1,4 @@
-## Hell there 👋
+## Hello there 👋
 ![Ben Kenobi says Hello There](https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
 <!--
@@ -19,13 +19,13 @@
 Working in the open fosters collaboration and networking by breaking down hierarchical barriers. It allows SSC-ICT to connect with other professionals and stakeholders who share their interest in their work, leading to valuable insights and potential partnerships.
 
 2. Increased Transparency
-Digital services are dynamic and can vary significantly among users. By adopting open practices, SSC-ICT can provide transparency in how digital services are developed and delivered, enhancing accountability and trust.
+Digital services are dynamic and can vary significantly among users. By adopting open practices, SSC-ICT can provide transparency in developing and delivering digital services, enhancing accountability and trust.
 
 3. Improved Institutional Memory
 Documenting work openly helps new team members quickly understand past decisions and projects. It also allows external parties to see the rationale behind decisions, facilitating continuity and learning.
 
 4. Accountability in Public Spending
-Open working practices make it clear how public funds are being utilized in digital projects. This transparency ensures that public money is spent effectively and efficiently, fostering trust with stakeholders and the public.
+Open working practices clarify how public funds are utilized in digital projects. This transparency ensures that public money is spent effectively and efficiently, fostering trust with stakeholders and the public.
 
 5. Building Trust and Credibility
 Lack of information can lead to misconceptions and doubts about digital services. By being open about processes and decisions, SSC-ICT can build trust and credibility with users and stakeholders.
